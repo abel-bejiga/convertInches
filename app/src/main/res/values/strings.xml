@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">inchesToCM</string>
+    <string name="buttonConvert">Convert</string>
+    <string name="input_hint">Enter Inch value</string>
+    <string name="to_cm">to Centimeter</string>
+    <string name="to_meter">to Meter</string>
+    <string name="to_feet">to Feet</string>
+</resources>
